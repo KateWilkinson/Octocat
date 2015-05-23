@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+git clone clones a Git repository by using the URL for that project, and making a local copy that you can look at, modify etc. This is particularly useful if you're collaborating on a project with others.
