@@ -1,1 +1,1 @@
-Explain what the "upstream" remote is usually used for, in your own words
+The upstream remote usually refers to an original remote repo (on GitHub) that is being forked and cloned. The upstream remote allows you to pull files/changes from the original repository into your own forked repo/cloned local repo. You can then make changes without altering the master code. 
